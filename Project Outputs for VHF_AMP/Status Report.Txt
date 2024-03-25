@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : PCB Document [VHF_AMP.PCBDOC]
+   Generated File[VHF_AMP.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 23:18:13 On 24.03.2024

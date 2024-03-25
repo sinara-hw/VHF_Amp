@@ -1,0 +1,2 @@
+Record=DiagramHierarchy|SourceDocument=VHF_AMP_MBsch.MbsDoc|Kind=Multi-board Schematic Module|Designator=B1|Source=..\VHF_AMP.PrjPcb
+Record=SubProject|SourceDocument=VHF_AMP_MBsch.MbsDoc|ProjectPath=..\VHF_AMP.PrjPcb

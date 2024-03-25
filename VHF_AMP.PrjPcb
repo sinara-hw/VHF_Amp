@@ -320,6 +320,35 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMCAKJOF
 
+[Document17]
+DocumentPath=VHF_AMP.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=C13CA34A-FB87-46C4-A192-66D8FBDCD426
+Description=std
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for VHF_AMP\Design Rule Check - VHF_AMP.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=MainTitle
 Value=VHF Amplifier
