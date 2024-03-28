@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\Magazyn_TachBook\My Work\INNE\VHF_Amp\VHF_AMP.PCBDOC
-Date     : 26.03.2024
-Time     : 07:42:23
+Date     : 28.03.2024
+Time     : 22:41:41
 
 Processing Rule : Clearance Constraint (Gap=0.5mm) (InNet('VDD_PA_N')),(All)
 Rule Violations :0
@@ -127,4 +127,4 @@ Waived Violations :9
 
 Violations Detected : 0
 Waived Violations : 10
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:03
