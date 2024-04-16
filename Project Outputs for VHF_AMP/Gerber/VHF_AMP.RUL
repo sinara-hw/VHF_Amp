@@ -3,7 +3,6 @@ RuleKind=Clearance|RuleName=Clearance_50_Ohms_GND_Plane_4|Scope=Board|Minimum=19
 RuleKind=Clearance|RuleName=Clearance_50_Ohms_GND_Plane_3|Scope=Board|Minimum=19.69
 RuleKind=Clearance|RuleName=Clearance_50_Ohms_GND_Plane_2|Scope=Board|Minimum=19.69
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
-RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_Blind|Scope=Board|Minimum=3.94
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_GND_VIA|Scope=Board|Minimum=-3.94
