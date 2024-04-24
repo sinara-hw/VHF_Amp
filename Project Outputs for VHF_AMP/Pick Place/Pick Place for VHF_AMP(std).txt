@@ -4,9 +4,9 @@ E:\Magazyn_TachBook\My Work\INNE\VHF_Amp\Project Outputs for VHF_AMP\Pick Place\
 ========================================================================================================================
 File Design Information:
 
-Date:       16.04.24
-Time:       22:55
-Revision:   3211dab4d003d22f92d74822a91f97edd7e0770e
+Date:       21.04.24
+Time:       23:57
+Revision:   65cfd9052a031a2b37059474601ac16928a15239
 Variant:    std
 Units used: mil
 

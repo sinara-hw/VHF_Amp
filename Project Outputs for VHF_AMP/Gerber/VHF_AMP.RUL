@@ -10,4 +10,4 @@ RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
 RuleKind=Width|RuleName=50_Ohm_Lines|Scope=Board|Minimum=7.87
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
 RuleKind=Clearance|RuleName=Clearance_50_Ohms_GND_Plane|Scope=Board|Minimum=7.87
-RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=5.91
